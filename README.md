@@ -10,8 +10,8 @@
 
 ## **License**
 - 💻 빅데이터분석기사 (22/07/15)
-- 데이터 분석 준전문가-ADSP (22/03/25)
-- SQL 개발자-SQLD (22/04/08)
+- 📈 데이터 분석 준전문가-ADSP (22/03/25)
+- 📋 SQL 개발자-SQLD (22/04/08)
 
 ## **Skill**
 #### Language :  ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=ffdd54)
