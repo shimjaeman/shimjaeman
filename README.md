@@ -28,5 +28,5 @@
 <br>
 
 ## **Stats**
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjm2449)](https://solved.ac/sjm2449)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=shimjaeman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<img align='left' width='35%' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sjm2449">
+<img align='left' width='45%', src="https://github-readme-stats.vercel.app/api/?username=shimjaeman&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
