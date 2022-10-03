@@ -36,4 +36,3 @@ if __name__ == "__main__":
     readme = update_readme()
     with open("./README.md", 'w', encoding='utf-8') as f: 
         f.write(readme)
-[출처] Github Action 활용하여 README 파일에 출처별 풀이 문제 수 카운팅하기|작성자 Daikoku
