@@ -4,8 +4,8 @@
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/sjm2449)
 
 ## **Experience**
-- 🏎️ Seoil University, Integrative Biotechnology
-- 🧬 Sejong University, Automobile Engineering
+- 🏎️ Seoil University, Automobile Engineering
+- 🧬 Sejong University, Integrative Biotechnology
 - 🏫 T아카데미 ASAC AI기반 빅데이터 분석가 1기 (22/09/28 ~ )
 
 ## **License**
