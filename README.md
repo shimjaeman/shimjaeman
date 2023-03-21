@@ -19,8 +19,11 @@
 ### Tools 
 <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=white"> ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio code](https://img.shields.io/badge/isual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-code&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-#### ML/ DL 
+### ML/DL 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+
+### CI/CD 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)  ![Airflow](https://img.shields.io/badge/Airflow-E43921?style=for-the-badge&logo=Airflow&logoColor=white) 
 
 ## **Personal Projects**
   - 경마 데이터 분석을 통한 경마 경기 결과 예측 (22.11.08 ~ 22.11.18) [ [Horse_Racing](https://github.com/shimjaeman/Horse-Racing-Projections) ]
