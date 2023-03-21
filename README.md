@@ -1,7 +1,6 @@
 # Welcome to JaeMan's Github
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshimjaeman&count_bg=%23EB8B10&title_bg=%23684327&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://github.com/shimjaeman)
 [![Tistory Badge](https://img.shields.io/badge/Tistory-555263?style=flat&logo=Tistory&logoColor=white)](https://sjm2449.tistory.com/)
-[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/sjm2449)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://shocking-horn-afc.notion.site/56f574fb189147609930a7bde32cbd72)
 
 ## **Experience**
 - 🏎️ Seoil University, Automobile Engineering
@@ -24,12 +23,11 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
 
 ## **Personal Projects**
+  - 경마 데이터 분석을 통한 경마 경기 결과 예측 (22.11.08 ~ 22.11.18) [ [Horse_Racing](https://github.com/shimjaeman/Horse-Racing-Projections) ]
+  - NLP 기반 링크 추천 시스템 (23.02.15 ~ 23.03.09) [ [NLP_Recommendation](https://github.com/shimjaeman/NLP-based_Recommendation_System) ]
 
-<br>
-
-## **Competion**
-
-<br>
+## **Competion** 
+  - 제 2회 소방안전 AI예측 경진대회 우수상 (22.10.17 ~ 22.11.30) [ [Fire_Safety](https://github.com/shimjaeman/Fire_Safety_Competition) ] 
 
 ## **Stats**
 
