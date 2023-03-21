@@ -5,7 +5,7 @@
 ## **Experience**
 - 🏎️ Seoil University, Automobile Engineering
 - 🧬 Sejong University, Integrative Biotechnology
-- 🏫 T아카데미 ASAC AI기반 빅데이터 분석가 1기 (22/09/28 ~ )
+- 🏫 [T아카데미] ASAC AI기반 빅데이터 분석가 1기 (22/09/28 ~ 23/03/18)
 
 ## **License**
 - 💻 빅데이터분석기사 (22/07/15)
@@ -26,11 +26,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)  ![Airflow](https://img.shields.io/badge/Airflow-E43921?style=for-the-badge&logo=Airflow&logoColor=white) 
 
 ## **Personal Projects**
-  - 경마 데이터 분석을 통한 경마 경기 결과 예측 (22.11.08 ~ 22.11.18) [ [Horse_Racing](https://github.com/shimjaeman/Horse-Racing-Projections) ]
-  - NLP 기반 링크 추천 시스템 (23.02.15 ~ 23.03.09) [ [NLP_Recommendation](https://github.com/shimjaeman/NLP-based_Recommendation_System) ]
+  - 경마 데이터 분석을 통한 경마 경기 결과 예측 (22/11/08 ~ 22/11/18) [ [Horse_Racing](https://github.com/shimjaeman/Horse-Racing-Projections) ]
+  - NLP 기반 링크 추천 시스템 (23/02/15 ~ 23/03/09) [ [NLP_Recommendation](https://github.com/shimjaeman/NLP-based_Recommendation_System) ]
 
 ## **Competion** 
-  - 제 2회 소방안전 AI예측 경진대회 우수상 (22.10.17 ~ 22.11.30) [ [Fire_Safety](https://github.com/shimjaeman/Fire_Safety_Competition) ] 
+  - 제 2회 소방안전 AI예측 경진대회 우수상 (22/10/17 ~ 22/11/30) [ [Fire_Safety](https://github.com/shimjaeman/Fire_Safety_Competition) ] 
 
 ## **Stats**
 
